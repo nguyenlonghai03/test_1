@@ -1,1 +1,9 @@
-hello
+b1
+git clone 
+
+git pull <lay du lieu> git add and git commit -m
+
+
+b2 git add 
+b3 git commit -m "xxx"
+b4 git push origin master
